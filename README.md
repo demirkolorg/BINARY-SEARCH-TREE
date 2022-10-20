@@ -27,7 +27,10 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
         1-->0;
         1-->2;
 
-        3-->5,4
+        3-->5,4;
+        5,4-->4;
+        4-->5;
+        4-->-;
 
 
         7,8,9-->8;
