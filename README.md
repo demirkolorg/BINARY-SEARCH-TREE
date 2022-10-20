@@ -14,6 +14,8 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
 
 ```mermaid
   graph TD;
+  [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] -->6;
+
         6-->5,1,3,0,4,2;
         6-->7,8,9;
         
