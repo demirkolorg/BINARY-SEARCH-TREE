@@ -23,7 +23,7 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
         7,8,9-->8;
         8-->7;
         8-->9;
-        
+
         5,1,3,0,4,2-->3;
 
         3-->1,0,2;
@@ -40,8 +40,6 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
         
     
 ```
-
-**Toplam islem sayısı 6**
 
 ### B - Big-O gösterimini yazınız.
 
